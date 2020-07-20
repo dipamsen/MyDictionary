@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "MyDictionary",
+    "slug": "MyDictionary-whjr",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "android": {
+      "package": "com.dipam.mydictionary"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dipam.mydictionary"
+    },
+    "web": {
+      "favicon": "https://whjr-v2-prod-bucket.s3.ap-south-1.amazonaws.com/2dfbbc4a-fd4f-4a6c-83c6-63c04f6110b9.png"
+    }
+  }
+}
